@@ -1,0 +1,20 @@
+// @import '../../node_modules/bootstrap/scss/bootstrap.scss';
+// 19 ошибок, страницу показывает ??? bootstrap.min.css <---> bootstrap.scss
+
+@import 'presets/variables';
+// @import 'presets/skin';
+
+// @import 'common/typograthy';
+// @import 'common/classes';
+
+// @import 'components/header/header';
+@import 'components/header/navbar';
+// @import 'components/header/content';
+
+// @import 'components/main/section';
+// @import 'components/main/about';
+// @import 'components/main/process';
+// @import 'components/main/experience';
+// @import 'components/main/video';
+
+// @import 'components/footer/footer';

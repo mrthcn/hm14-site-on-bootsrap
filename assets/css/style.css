@@ -1,0 +1,11 @@
+.dropdown-submenu {
+  position: static;
+  top: 7px;
+  left: 98%;
+
+  display: none;
+}
+
+.dropdown-menu > li:hover > .dropdown-submenu {
+  display: block;
+}
